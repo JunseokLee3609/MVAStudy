@@ -1,0 +1,19 @@
+[
+    {
+        "MC" : {
+            "Prompt" : [
+                "/home/jun502s/DstarAna/DStarAna/flatSkimForBDT_isMC1_0.root",
+                "/home/jun502s/DstarAna/DStarAna/flatSkimForBDT_isMC1_1.root"
+            ],
+            "NonPrompt" : [
+                "/Users/soohwanlee/CMSANA/MuonIDMVA/store/MC2023/soohwan_GENSIM_pTHatMin1_BsToJpsiKK_HydjetMix_CMSSW_13_2_6_patch1_13Oct2023.root"
+            ]
+        },
+        "Data" : {
+            "Jpsi" : [
+                "/home/jun502s/DstarAna/DStarAna/flatSkimForBDT_isMC0_0.root",
+                "/home/jun502s/DstarAna/DStarAna/flatSkimForBDT_isMC0_1.root"
+            ]
+        }
+    }
+]
